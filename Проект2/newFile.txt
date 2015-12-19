@@ -1,0 +1,5 @@
+for i:=varOne + (d + f) to (varOne - 1) do
+begin
+   3 := varOne + 5;
+   varOne := -5;
+end;
